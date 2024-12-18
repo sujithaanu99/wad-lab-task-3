@@ -1,88 +1,92 @@
 h3
 {
 font-family :tahoma;
-
+color : grey;
 font-size : 40;
 font-style : bold;
-
+background : silver;
 font-family : Brush Script MT;
 }
 body
 {
 font-family :marker;
-
-font-size : 26;
+color : brown ;
+font-size : 16;
 font-style : bold;
 font-family : Verdana;
 
 }
 title
 {
-
-font-size : 30;
+color : lavender;
+font-size : 18;
 font-style : bold;
-
+background : silver;
 font-family : Tahoma ;
 
 }
 li
 {
-
-font-size : 28;
+color : darkpink;
+font-size : 14;
 font-style : bold;
 font-family :Trebuchet MS;
 
 }
 form
 {
-
-font-size : 20;
+color : darkgreen;
+font-size : 12;
 font-style : bold;
-
+background : green;
 font-family : Arial;
 
 
 }
 ul
 {
-
-font-size : 32;
+color : darkpink;
+font-size : 14;
 font-style : bold;
-
+background : silver;
 font-family : Georgia;
 
 
 }
 ol
 {
-
-font-size : 32;
+color : purple;
+font-size : 12;
 font-style : bold;
-
+background : silver;
 font-family : Garamond;
 
 
 }
 tr
 {
-
-font-size : 20;
+color : darkblue;
+font-size : 14;
 font-style : bold;
 font-family : Verdana;
 
 }
 tr
 {
-
-font-size : 20;
-font-style : bold;
+color : violet;
+font-size : 12;
+font-style : bold;Verdana;
 font-family : Verdana;
 
 }
 head
 {
 color : darkred;
-font-size : 36;
+font-size : 20;
 font-style : bold;
+background : gold;
 font-family : Courier New ;
+
+
 }
+
