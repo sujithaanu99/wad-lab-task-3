@@ -86,7 +86,20 @@ font-size : 20;
 font-style : bold;
 background : gold;
 font-family : Courier New ;
-
-
 }
-
+f1,f3,f6
+{
+  color : grey;
+}
+f2,f4,f8
+{
+  color : violet;
+}
+f5,f7,f9
+{
+  pink;
+}
+f10
+{
+  color : skyblue;
+}
