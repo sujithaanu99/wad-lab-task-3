@@ -36,7 +36,7 @@ font-family :Trebuchet MS;
 form
 {
 
-font-size : 28;
+font-size : 20;
 font-style : bold;
 
 font-family : Arial;
@@ -74,7 +74,7 @@ font-family : Verdana;
 tr
 {
 
-font-size : 200;
+font-size : 20;
 font-style : bold;
 font-family : Verdana;
 
@@ -85,20 +85,4 @@ color : darkred;
 font-size : 36;
 font-style : bold;
 font-family : Courier New ;
-}
-f1,f3,f6
-{
-  background : grey;
-}
-f2,f4,f8
-{
-  background : violet;
-}
-f5,f7,f9
-{
-  background : pink;
-}
-f10
-{
-  background : skyblue;
 }
